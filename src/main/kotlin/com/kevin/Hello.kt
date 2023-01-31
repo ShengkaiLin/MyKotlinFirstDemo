@@ -6,6 +6,10 @@ fun main(args: Array<String>) {
 
     val h = Human()
     h.hello()
+
+    var weight :Float = 66.5f
+    val name :String
+    name = "Kevin"
 }
 
 class Human{
