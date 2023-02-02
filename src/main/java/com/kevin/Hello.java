@@ -12,7 +12,13 @@ public class Hello {
 
         float bmi = person.bmi();
 
-        System.out.println(bmi );
+        int score = 88;
+        System.out.println(score>60  | score<90);
+
+        char c = 'A';
+        System.out.println(c>'a');
+
+        System.out.println(bmi);
 
     }
 }
